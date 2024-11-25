@@ -388,7 +388,7 @@
       "worldWidth": "2048",
       "worldLength": "2048",
       "worldEdge": "blocked",
-      "polarEquatorDistance": "5000",
+      "polarEquatorDistance": "1024",
       "globalTemperature": "1",
       "globalPrecipitation": "1",
       "globalForestation": "0",
