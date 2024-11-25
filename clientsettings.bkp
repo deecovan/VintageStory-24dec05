@@ -91,12 +91,12 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 588,
-      "Y": 425
+      "X": 623,
+      "Y": 498
     },
     "playerstats": {
-      "X": -356,
-      "Y": -79
+      "X": -358,
+      "Y": -80
     },
     "environment": {
       "X": 5,
@@ -110,27 +110,7 @@
       "X": 649,
       "Y": 234
     },
-    "handbook-detail": null,
-    "blockentitystove511755, 132, 511877": {
-      "X": 333,
-      "Y": 584
-    },
-    "blockentitystove510991, 112, 511998": {
-      "X": 1151,
-      "Y": 315
-    },
-    "gui_blocksavedgroups": {
-      "X": 536,
-      "Y": 9
-    },
-    "toolmodeselect2590, 118, 2218": {
-      "X": 690,
-      "Y": 209
-    },
-    "toolmodeselect2533, 109, 2720": {
-      "X": 688,
-      "Y": 249
-    }
+    "handbook-detail": null
   },
   "stringSettings": {
     "settingsVersion": "1.13",
@@ -151,12 +131,12 @@
     "playername": "Dee",
     "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:trumpet,voicepitch:verylow,hairbase:dreadlocks,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:silverchalice",
     "prevSkinSelection": "baseskin:skin18,eyecolor:dark-green,underwear:breeches,voicetype:trumpet,voicepitch:verylow,hairbase:longwithstrands,hairextra:elaboratestickbun,facialexpression:neutral,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:lightgray",
-    "currentHandbookCategoryCode": null
+    "currentHandbookCategoryCode": "stack"
   },
   "intSettings": {
     "fpHandsFoV": 75,
     "mipmapLevel": 3,
-    "musicFrequency": 1,
+    "musicFrequency": 0,
     "graphicsPresetId": 11,
     "webRequestTimeout": 10,
     "maxAnimatedElements": 230,
@@ -165,22 +145,22 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 2,
     "ssaoQuality": 0,
-    "viewDistance": 96,
+    "viewDistance": 128,
     "fieldOfView": 66,
     "maxFps": 30,
     "particleLevel": 20,
     "maxDynamicLights": 3,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
-    "chunkVerticesUploadRateLimiter": 3,
+    "chunkVerticesUploadRateLimiter": 4,
     "masterSoundLevel": 100,
     "soundLevel": 100,
     "entitySoundLevel": 100,
-    "ambientSoundLevel": 50,
+    "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 5,
-    "screenWidth": 1280,
-    "screenHeight": 720,
+    "musicLevel": 0,
+    "screenWidth": 1366,
+    "screenHeight": 768,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
@@ -222,7 +202,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": true,
-    "wavingStuff": false,
+    "wavingStuff": true,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -259,14 +239,14 @@
   "floatSettings": {
     "guiScale": 0.75,
     "fontSize": 1.0,
-    "lodBias": 0.25,
-    "lodBiasFar": 0.5,
+    "lodBias": 0.5,
+    "lodBiasFar": 0.75,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
-    "gammaLevel": 1.5,
+    "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.34513804,
+    "sepiaLevel": 0.38929182,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -278,7 +258,7 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.5,
+    "ssaa": 0.75,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
