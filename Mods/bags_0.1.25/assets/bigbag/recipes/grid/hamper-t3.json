@@ -3,7 +3,7 @@
 		ingredientPattern: "LML,SMS,LLL",
 		enabled: true,
 		ingredients: {
-			"L": { type: "item", code: "game:cattailtops", quantity: 3 },
+			"L": { type: "item", code: "game:cattailtops", quantity: 6 },
 			"M": { type: "item", code: "hamper-t2", quantity: 1 },
 			"S": { type: "item", code: "game:rope*", quantity: 2 },
 		},
@@ -18,7 +18,7 @@
 		ingredientPattern: "LML,SMS,LLL",
 		enabled: true,
 		ingredients: {
-			"L": { type: "item", code: "game:papyrustops", quantity: 3 },
+			"L": { type: "item", code: "game:papyrustops", quantity: 6 },
 			"M": { type: "item", code: "hamper-t2", quantity: 1 },
 			"S": { type: "item", code: "game:rope*", quantity: 2 },
 		},
