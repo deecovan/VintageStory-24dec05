@@ -10,7 +10,6 @@ FotSA-Machairodontinae-v1.0.13.zip
 FotSA-Pantherinae-v1.1.13.zip
 FotSA-Rhinocerotidae-v1.0.7.zip
 FotSA-Spheniscidae-v1.0.0.zip
-localrespawns_1.0.7.zip
 ornamentalplants_1.0.0.zip
 Plainsandvalleys-v1.0.6.zip
 primitivesurvival_3.7.1.zip

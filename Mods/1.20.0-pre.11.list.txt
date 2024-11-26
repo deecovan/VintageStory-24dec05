@@ -7,6 +7,7 @@ harvestcorpsesquickly_1.0.0.zip
 infinitetorch.zip
 JuicyOres-v1.0.0.zip
 levelup_1.3.4.zip
+localrespawns_1.0.7.zip
 NotEnoughMapIcons-v1.1.0.zip
 stepupcontinued_0.0.1.zip
 TempHumanClass-1.1.1.zip
