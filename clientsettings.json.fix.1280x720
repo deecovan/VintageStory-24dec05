@@ -130,6 +130,10 @@
     "toolmodeselect2533, 109, 2720": {
       "X": 688,
       "Y": 249
+    },
+    "toolmodeselect2546, 109, 2719": {
+      "X": 670,
+      "Y": 287
     }
   },
   "stringSettings": {
@@ -173,11 +177,11 @@
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
     "chunkVerticesUploadRateLimiter": 4,
-    "masterSoundLevel": 100,
+    "masterSoundLevel": 60,
     "soundLevel": 100,
     "entitySoundLevel": 100,
-    "ambientSoundLevel": 50,
-    "weatherSoundLevel": 50,
+    "ambientSoundLevel": 100,
+    "weatherSoundLevel": 30,
     "musicLevel": 5,
     "screenWidth": 1280,
     "screenHeight": 720,
@@ -266,7 +270,7 @@
     "gammaLevel": 1.5,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39999995,
+    "sepiaLevel": 0.34915474,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
