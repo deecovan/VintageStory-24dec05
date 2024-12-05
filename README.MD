@@ -1,4 +1,4 @@
-# Vintagestory GitHub repo 
+# Vintagestory-24dec05 Renamed GitHub repo 
 ## 27.11.24 Start tests BigBags v0.1.25
 - Start Small world 5kx5kx256h 300% 3days NoDrops
 - Tested Finished 4x BigBag-T3 (InGame-June-2nd)
